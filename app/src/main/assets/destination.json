@@ -1,0 +1,42 @@
+{
+  "main/tabs/sofa": {
+    "isFragment": true,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/sofa",
+    "className": "com.example.test608.ui.sofa.Sofa",
+    "id": 1271179289
+  },
+  "main/tabs/home": {
+    "isFragment": true,
+    "asStarter": true,
+    "needLogin": false,
+    "pageUrl": "main/tabs/home",
+    "className": "com.example.test608.ui.home.Home",
+    "id": 832269081
+  },
+  "main/tabs/publish": {
+    "isFragment": false,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/publish",
+    "className": "com.example.test608.ui.publish.Publish",
+    "id": 1966389111
+  },
+  "main/tabs/find": {
+    "isFragment": true,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/find",
+    "className": "com.example.test608.ui.find.Find",
+    "id": 1774521639
+  },
+  "main/tabs/my": {
+    "isFragment": true,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/my",
+    "className": "com.example.test608.ui.my.My",
+    "id": 1995542009
+  }
+}
